@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel = "stylesheet" href = "/static/style3.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <title>Rainfall-Prediction</title>
+</head>
+<body>
+    <div class="container bt-3">
+    <h1 class="text-center m-3  text-wrap">Rainfall Prediction in India</h1>
+        <div class="card container" style="width: 50%;">
+            <div class="card-body">
+                    <form action="/index" method="post">
+                        <div class="form-group">
+                          <label for="formGroupExampleInput1">Month</label>
+                          <input
+                            type="text"
+                            class="form-control"
+                            id="formGroupExampleInput1"
+                            name="Month"
+                            placeholder="{{Month}}"
+                            required
+                          />
+                        </div>
+                        <div class="form-group">
+                          <label for="formGroupExampleInput2">Year</label>
+                          <input
+                            type="text"
+                            class="form-control"
+                            id="formGroupExampleInput2"
+                            name="Year"
+                            placeholder="{{Year}}"
+                            required
+                          />
+                        </div>
+                        
+                      
+                        <h2 class="text-center  text-wrap">The Rainfall Predicted is {{res}} mm in  <span id = "result"></span></h2>
+                        <script>
+                          document.getElementById("result").innerHTML = localStorage.getItem("ddvalue");
+                        </script>
+                        
+                      </form>
+                    </div>
+            
+                      <center><a href="/"><button type="submit" class="btn btn-primary">Back</button></a></center>
+                    </div>  
+
+    </div>
+
+</body>
+</html>
