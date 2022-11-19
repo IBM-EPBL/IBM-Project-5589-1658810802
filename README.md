@@ -10,7 +10,7 @@
 
 This is a 6 Page Covid-Helper Front End website design
 
-Web Technologies used: HTML, CSS, Python, Anaconda
+Programming Languages & Technologies used: HTML, CSS, Python, Anaconda, Jupyter, IBM Cloud
 
 IDE: VS-Code
 
