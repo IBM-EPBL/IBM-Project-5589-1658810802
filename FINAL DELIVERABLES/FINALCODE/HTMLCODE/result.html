@@ -19,7 +19,7 @@
                             class="form-control"
                             id="formGroupExampleInput1"
                             name="Month"
-                            placeholder="5"
+                            placeholder="{{Month}}"
                             required
                           />
                         </div>
@@ -30,13 +30,13 @@
                             class="form-control"
                             id="formGroupExampleInput2"
                             name="Year"
-                            placeholder="2023"
+                            placeholder="{{Year}}"
                             required
                           />
                         </div>
                         
                       
-                        <h2 class="text-center  text-wrap">The Rainfall Predicted is 91.56159165458018 mm in <span id = "result"></span></h2>
+                        <h2 class="text-center  text-wrap">The Rainfall Predicted is {{res}} mm in  <span id = "result"></span></h2>
                         <script>
                           document.getElementById("result").innerHTML = localStorage.getItem("ddvalue");
                         </script>
