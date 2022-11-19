@@ -14,9 +14,6 @@ Programming Languages & Technologies used: HTML, CSS, Python, Anaconda, Jupyter,
 
 IDE: VS-Code
 
-## Industry :
-Environment
-<br><br>
 
 ### Project Title :
 Exploratory Analysis of Rainfall Data in India using python
