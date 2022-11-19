@@ -5,7 +5,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%231572B6.svg?style=for-the-badge&logo=Python&logoColor=black)
 ![Anaconda](https://img.shields.io/badge/Anacodan-%23E34F26.svg?style=for-the-badge&logo=Anaconda&logoColor=white)
-![
+![Jupyter](https://img.shields.io/badge/jupyter-%23323330.svg?style=for-the-badge&logo=jupyter&logoColor=%23F7DF1E)
 ![Responsive](https://img.shields.io/badge/Responsive-100%25-red)
 
 This is a 6 Page Covid-Helper Front End website design
@@ -14,36 +14,36 @@ Web Technologies used: HTML, CSS, Python, Anaconda
 
 IDE: VS-Code
 
-<b>Note:</b> Bot is deployed on QnA page
-<br><br>
-
 ## Industry :
-Health
+Environment
 <br><br>
 
 ### Project Title :
-Health Website(Covid-Helper) with QnA Bot
+Exploratory Analysis of Rainfall Data in India using python
 
 
 ### Problem Statement/Opportunity :
-On 11 March 2020, the WHO Director-General “rang the alarm bell loud and clear” by calling COVID-19 a pandemic. Globally and locally, control and prevention measures have been frustrated by myriad challenges. First, accurate information is crucial, but often unknown, or obscured by misinformation. During a pandemic, people do not know what to do. Doing too little (e.g., not following prophylactic measures) can increase everyone’s risk of infection. Pandemics have unique characteristics that make them amenable to tailored interventions deliverable via chatbots. This is a Covid Chat Bot which answers Covid related queries.
+India is a global agricultural powerhouse. Rain is beneficial for crops and fields however there is an “absolute” amount of rainfall in any given growing season for most crops. If the average rainfall is much lower or higher than the ideal, it can lead to significant problems, from drowned crops to lower yields. Rainfall forecasting is important otherwise, it may lead to many disasters. Irregular heavy rainfall may lead to the destruction of crops. But accurate rainfall prediction has become very complicated in recent times due to drastic variability in climatic changes. Hence it is important to exactly determine the rainfall for the effective use of water resources, and crop productivity.
+
 
 ### Project Description :
-Our Project is intended to help and support people with the necessary information on the global pandemic. It tackles the crucial threat and despair caused by COVID-19. Chatbots have varied widely in their responses to questions about physical health. Chatbots provide a single answer to most questions, they are able to present concise information from credible sources. Chatbots, in contrast to newspapers and online information sources, can often hear and respond in natural language, improving access for people who cannot read or have difficulty using the internet. This project is related to the global pandemic of Covid -19. It has a QnA set related to the covid queries. When a user asks a relevant query regarding Covid-19 it responds with an appropriate answer. This project solves the doubt and confusions related to covid and busts the myth around Covid-19. This project provides detailed guidance and proper preventions along with user-friendly interface.
 
-Core Idea of Project is to build an sample prototype Health Website with QnA Bot for worldWide population with the help of HTML, CSS, JAVASCRIPT, BOOTSTRAP and AZURE SERVICES. Across a wide range of industries, chatbots have been an efficiency-enhancing way for business teams to interact with their customers. Chatbots are conversational agents that leverage machine learning and natural language processing to understand intent in order to reply with appropriate answers, and they have advantages relevant to the present crisis. First, they are accessible any time, allowing patients to obtain answers 24/7 and to avoid wait times on hold before reaching a human. Second, chatbots have a higher handling capacity than any human. A single chat bot can simultaneously have conversations with thousands of people no matter what time of day. Regardless of the volume of calls, every question may be answered immediately.
+India is an agricultural country and the secondary agro-based market will be steady with a good monsoon. The economic growth of each year depends on the amount of duration of monsoon rain, bad monsoon can lead to the destruction of some crops, which may result in scarcity of some agricultural products which in turn can cause food inflation, insect, city, and public unrest. In our analyses,s we are trying to understand the behavior of rainfall in India over the years, by month,s, and d different subdivisions.
+
+Rainfall data are used for a variety of purposes and are required at a range of time scales. Real-time rainfall data are required for flood forecasting and hydropower
+and reservoir operation. Summaries of storm rainfall event data are required for assessment of the severity of events at weekly or monthly time scales. As is widely recognized, rainfall data is necessary for the mathematical modeling of extreme hydrological events, such as droughts or floods, as well as for evaluating surface and
+subsurface water resources and their quality.A good balance of rain and proper irrigation can lead to faster-growing plants, which can cut down on germination time and the length between seeding and harvest. The crops are dependent on the water during their entire lifecycle to survive and thrive
+
+## IBM Technology :
+
+-<b>Primary IBM Technology :<b><br>
+>Watson Studio<br>
+>Watson Machine Learning<br>
+>AI Machine Learning<br>
 
 
-## Azure Technology :
+-Other Technologies :<br>
+>Anaconda<br>
+>Jupyter<br>
 
--<b>Primary Azure Technology :<b><br>
->Static Web App<br>
->Azure Bot Service<br>
->QnA Maker<br>
->Web App Bot<br>
-
-
--Other Azure Technologies :<br>
->App Service<br>
-
-<b>Project Link : </b>https://ambitious-hill-09c518f00.1.azurestaticapps.net
+<b>Project Demo Link : https://www.veed.io/view/d0610b79-01ff-40d4-84f7-6504db222651?panel=share
